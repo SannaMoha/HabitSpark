@@ -1,9 +1,7 @@
 //
 //  Persistence.swift
 //  HabitSpark
-//
-//  Created by Sanna Mohabbat on 5/12/25.
-//
+
 
 import CoreData
 
