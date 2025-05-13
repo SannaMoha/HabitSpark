@@ -36,14 +36,11 @@ Users can create an account, track habits privately, and build up a collection o
 
 - 🎉 Confetti when hitting habit milestones
 - 📝 Weekly reflection modal
-- 🎨 Unlockable themes (e.g. cherry blossom, candy clouds)
 - 🪴 Habit Garden or Crystal Collection View
 - 🔔 Smart Reminders (e.g., nudge to complete habit based on time of day)
-- 🤖 AI-powered habit suggestions
 - 🧩 Habit Stacking (e.g., “After brushing teeth → Stretch”)
 - 📊 Heatmap of completions
 - 🎤 Voice-note habit logs
-- 👯‍♀️ Optional habit sharing / accountability buddy system
 
 ---
 
